@@ -7,10 +7,10 @@ Este é um sistema simples de recomendação de filmes baseado em filtragem cola
 #Requisitos
 Certifique-se de ter instalado os seguintes pacotes:
 
--pandas
--numpy
--scipy
--scikit-learn
+pandas
+numpy
+scipy
+scikit-learn
 
 # Você pode instalá-los executando:
 pip install pandas numpy scipy scikit-learn
